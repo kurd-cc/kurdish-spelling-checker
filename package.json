@@ -1,0 +1,33 @@
+{
+  "name": "kurdish-spell-checker",
+  "version": "1.0.0",
+  "description": "Check the Kurdish (Kurmanji) words and texts spelling",
+  "main": "kurdish-checker.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurd-cc/kurdish-spelling-checker.git"
+  },
+  "keywords": [
+    "Kurdish",
+    "spelling",
+    "Kurmanji",
+    "language",
+    "checker"
+  ],
+  "author": "Jagar Yousef <jagar.yousef@gmail.com> (https://jagar.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kurd-cc/kurdish-spelling-checker/issues"
+  },
+  "homepage": "https://github.com/kurd-cc/kurdish-spelling-checker#readme",
+  "dependencies": {
+    "string-similarity": "^4.0.4"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.2"
+  }
+}
