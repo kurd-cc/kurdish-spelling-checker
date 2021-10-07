@@ -1,6 +1,6 @@
 {
   "name": "kurdish-spell-checker",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Check the Kurdish (Kurmanji) words and texts spelling",
   "main": "kurdish-checker.js",
   "type": "module",

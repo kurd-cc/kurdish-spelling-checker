@@ -1,8 +1,9 @@
 import { readFileSync } from 'fs'
+import {db} from './db/db.js';
 import stringSimilarity from 'string-similarity';
 
 // Reads all words from db/words.txt to an array
-const all_words = readFileSync('db/words.txt').toString().replace(/\r\n/g,'\n').split('\n');
+const all_words = db
 
 
 /**
