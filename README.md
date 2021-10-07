@@ -1,7 +1,6 @@
 # Kurdish-spell-checker <br>
-<hr>
 An NPM package to check Kurdish (Kurmanji) texts/words spelling. <br>
-
+https://www.npmjs.com/package/kurdish-spell-checker <br>
 ### Features: <br>
 - Check full texts to find each word spell checking
 - Check if a certain word exists or not
